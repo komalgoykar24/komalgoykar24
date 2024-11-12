@@ -7,8 +7,8 @@
 
 
 
-- 💬 Ask me about **Java , JDBC , Hibernate ,SQL, Spring,JSP ,Servlet**
-
+- 💬 Ask me about **CoreJava ,SpringBoot,Servlet, JSP ,JDBC , Hibernate ,SQL,HTML,CSS,JavaScript**
+- 👨‍💻 Some of my notable projects: **ExpenseTracker, Spotify Clone, IT Consultancy Website ,WeatherApplication ,StudentManagemntSystem**
 - 📫 How to reach me **komalgoykar2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
