@@ -6,8 +6,7 @@
 🔹 Currently working as a **Software Engineer Intern at ASDR Infotech Pvt. Ltd**  
 🔹 MCA Student at **Savitribai Phule Pune University**  
 
-📫 **Email:** komalgoykar2002@gmail.com  
-🌍 **Portfolio:** [Coming Soon]  
+📫 **Email:** komalgoykar2002@gmail.com    
 🔗 **GitHub:** [@komalgoykar24](https://github.com/komalgoykar24) | **LinkedIn:** [Komal Goykar](http://www.linkedin.com/in/komal-goykar)  
 
 ---
